@@ -97,7 +97,4 @@ For more details, source code, and contributions, visit the GitHub repository:
 
 [GitHub Repository](https://github.com/amal-suresh/cres-admin)
 
----
 
-Feel free to reach out or open an issue if you have any questions or feedback.
-```
