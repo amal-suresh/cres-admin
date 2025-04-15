@@ -41,7 +41,7 @@ const Dashboard = () => {
 
     const handleLogout = () => {
         toast.success('Logged out');
-        navigate('/login');
+        navigate('/');
     };
 
     const filterList = (list) => {
