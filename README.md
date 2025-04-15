@@ -101,7 +101,3 @@ For more details, source code, and contributions, visit the GitHub repository:
 
 Feel free to reach out or open an issue if you have any questions or feedback.
 ```
-
----
-
-This README provides an attractive and professional outline of your CRES Admin project, including technology stack, key features, detailed setup instructions, and direct links to the live demo and repository.
